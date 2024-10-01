@@ -1,5 +1,6 @@
 <h1 align="center">Hellow 👋, I'm Jonathan Maverick</h1>
 <h3 align="center">Subject Coordinator at SLC (Software Laboratory Center) Binus University</h3>
+<img align="center" src ="https://64.media.tumblr.com/0590ed7e83fc28a5257f244d6f10eac2/tumblr_p4bymqDjkb1tx45yjo1_540.gif" alt= "shima rin"/>
 
 - 🌱 I’m currently learning **Blockchain**
 - 📫 How to reach me **jonathan.maverick@binus.edu**
