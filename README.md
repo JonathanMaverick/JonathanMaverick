@@ -8,7 +8,7 @@
 
 - 🔥 Best anime is **Yuru Camp**
 
-- 🏢 I'm currently working as a Subject Coordinator at the SLC (Software Laboratory Center), Binus University
+- 🏢 I'm currently working as a Subject Coordinator at SLC, Binus University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
