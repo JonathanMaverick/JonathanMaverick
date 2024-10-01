@@ -10,7 +10,7 @@
 
 - 🔥 Best anime is **Yuru Camp**
 
-- 🏢 Subject Coordinator at SLC (Software Laboratory Center), Binus University
+- 🏢 Subject Coordinator at SLC (Software Laboratory Center), **Binus University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
