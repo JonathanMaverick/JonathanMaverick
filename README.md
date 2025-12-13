@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **jonathan.maverick@binus.edu**
 
